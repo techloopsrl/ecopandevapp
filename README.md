@@ -1,2 +1,7 @@
-# ecopandevapp
-Ecopan App for dev  environment
+## EcopanApp
+
+Ecopan App
+
+#### License
+
+mit
